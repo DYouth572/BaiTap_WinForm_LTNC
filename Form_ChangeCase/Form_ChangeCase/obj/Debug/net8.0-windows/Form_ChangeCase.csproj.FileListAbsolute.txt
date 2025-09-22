@@ -1,0 +1,16 @@
+E:\C#\Form_ChangeCase\Form_ChangeCase\bin\Debug\net8.0-windows\Form_ChangeCase.exe
+E:\C#\Form_ChangeCase\Form_ChangeCase\bin\Debug\net8.0-windows\Form_ChangeCase.deps.json
+E:\C#\Form_ChangeCase\Form_ChangeCase\bin\Debug\net8.0-windows\Form_ChangeCase.runtimeconfig.json
+E:\C#\Form_ChangeCase\Form_ChangeCase\bin\Debug\net8.0-windows\Form_ChangeCase.dll
+E:\C#\Form_ChangeCase\Form_ChangeCase\bin\Debug\net8.0-windows\Form_ChangeCase.pdb
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.Form1.resources
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.csproj.GenerateResource.cache
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.AssemblyInfoInputs.cache
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.AssemblyInfo.cs
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.csproj.CoreCompileInputs.cache
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.dll
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\refint\Form_ChangeCase.dll
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.pdb
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\Form_ChangeCase.genruntimeconfig.cache
+E:\C#\Form_ChangeCase\Form_ChangeCase\obj\Debug\net8.0-windows\ref\Form_ChangeCase.dll
